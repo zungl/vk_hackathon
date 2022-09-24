@@ -2,6 +2,7 @@
 #### VK - Машинное обучение на графах (ОФЛАЙН-КЕЙС)
 
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
+[![presentation](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&label=%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F%2BdRQmyK%2FfIWnt3qkyREc5P%2FBIdIsBo3BhN6GRqv69roJxRp%2B0KFrFKbQc0iOS4yaq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=MindStorm%20-%20VK%20hackathon.pptx)
 <hr>
 
 ## Директории
@@ -28,3 +29,5 @@
 ## 🛠 Технологии
 
 Python, lightGBM, KGembeddings, PyKeen, Pytorch, Distmult, NodeToVec, GGVec, NetworkX, Feature_selection, Featrue_importance, Blending
+
+[![python](https://img.shields.io/pypi/pyversions/Torch?color=green&label=python&style=for-the-badge)](https://python.com/)
