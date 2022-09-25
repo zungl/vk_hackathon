@@ -3,6 +3,7 @@
 
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
 [![presentation](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white&label=%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F)](https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2F%2BdRQmyK%2FfIWnt3qkyREc5P%2FBIdIsBo3BhN6GRqv69roJxRp%2B0KFrFKbQc0iOS4yaq%2FJ6bpmRyOJonT3VoXnDag%3D%3D&name=MindStorm%20-%20VK%20hackathon.pptx)
+[![video](https://img.shields.io/badge/ScreenCast-black?style=for-the-badge&logo=Files&logoColor=white)](https://disk.yandex.ru/i/KcDDQHCymIXmfQ)
 <hr>
 
 ## Директории
@@ -28,6 +29,17 @@
 
 ## 🛠 Технологии
 
-Python, lightGBM, KGembeddings, PyKeen, Pytorch, Distmult, NodeToVec, GGVec, NetworkX, Feature_selection, Featrue_importance, Blending
-
-[![python](https://img.shields.io/pypi/pyversions/Torch?color=green&label=python&style=for-the-badge)](https://python.com/)
+[![python](https://img.shields.io/pypi/pyversions/Torch?color=green&label=python&style=for-the-badge)](https://python.org/)
+[![jupyter](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)]()
+[![lightGBM](https://img.shields.io/badge/lightGBM-black?style=for-the-badge&logo=lightGBM)]()
+[![KGembeddings](https://img.shields.io/badge/KGembeddings-black?style=for-the-badge&logo=KGembeddings)]()
+[![PyKeen](https://img.shields.io/badge/PyKeen-black?style=for-the-badge&logo=PyKeen)]()
+[![Pytorch](https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=Pytorch)]()
+[![Distmult](https://img.shields.io/badge/Distmult-black?style=for-the-badge&logo=Distmult)]()
+[![NodeToVec](https://img.shields.io/badge/NodeToVec-black?style=for-the-badge&logo=NodeToVec)]()
+[![GGVec](https://img.shields.io/badge/GGVec-black?style=for-the-badge&logo=GGVec)]()
+[![NetworkX](https://img.shields.io/badge/NetworkX-black?style=for-the-badge&logo=NetworkX)]()
+[![NodeToVec](https://img.shields.io/badge/NodeToVec-black?style=for-the-badge&logo=NodeToVec)]()
+[![Feature_selection](https://img.shields.io/badge/Feature_selection-black?style=for-the-badge&logo=Feature_selection)]()
+[![Featrue_importance](https://img.shields.io/badge/Featrue_importance-black?style=for-the-badge&logo=Featrue_importance)]()
+[![Blending](https://img.shields.io/badge/Blending-black?style=for-the-badge&logo=Blending)]()
